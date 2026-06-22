@@ -1,9 +1,9 @@
-# Package name
+# Instrument for Thought
 <pre>
-  pip install package-name
+  pip install instrument-for-thought
 </pre>
 Then:
 ```Python
   # Python
-  import package_name
+  import instrument_for_thought
 ```
